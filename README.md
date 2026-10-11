@@ -81,7 +81,7 @@ Alternatively, download the repository as a ZIP file from GitHub and extract it.
 ### Step 1: Create the MySQL Database and Tables
 
 1. Open MySQL Workbench and connect to your local MySQL Server.
-2. Navigate to the `server` folder in the PocketPilot project.
+2. Open server/database/schema.sql from the PocketPilot project.
 3. Locate the SQL file containing the database schema and table creation queries.
 4. Open that SQL file and copy its SQL queries.
 5. Paste the queries into a new SQL query tab in MySQL Workbench.
